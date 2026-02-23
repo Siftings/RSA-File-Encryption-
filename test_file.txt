@@ -1,0 +1,16 @@
+Este es un archivo de prueba para el sistema de sobre digital.
+Contiene informacion confidencial de la compania.
+
+Proyecto: Plataforma Analitica - Integracion de Microservicios
+Segmento: OTHER (Red interna)
+Clasificacion: CONFIDENCIAL
+
+Datos de ejemplo:
+- Servidor de base de datos: db.internal.corp:5432
+- API Key de integracion: sk-test-abc123def456ghi789
+- Token de acceso: eyJhbGciOiJIUzI1NiJ9.ejemplo.firma
+
+Este archivo sera cifrado con AES-256-CBC y la clave AES sera
+protegida mediante un sobre digital RSA-OAEP-SHA256.
+
+Fin del archivo de prueba.
