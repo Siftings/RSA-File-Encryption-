@@ -44,6 +44,10 @@ python main_rsa_envelope.py
 |**4**| Ver claves disponibles |
 |**0**| Salir |
 
+## Prueba
+
+Se puede utilizar el archivo de [texto](test_file.txt) como prueba para la ejecucion del programa.
+
 ## Detalles técnicos
 
 ### RSA (Cifrado Asimétrico)
